@@ -4,4 +4,4 @@ School Planet is an innovative educational platform designed to revolutionize th
 
 With School Planet, students can easily access a vast library of educational resources, including textbooks, lecture notes, and interactive multimedia content. The platform encourages collaboration and knowledge sharing among students through discussion forums, group projects, and chat functionalities. Additionally Schoool Planet will make it mores convenient for all stakeholders involved in running a school.
 
-I have mades used of sample pictures I took just give out an indication of what the project might look like when finished.
+I made use of sample pictures I took just give out an indication of what the project might look like when finished.
